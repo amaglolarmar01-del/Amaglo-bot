@@ -1,0 +1,2 @@
+# Amaglo-bot
+A
