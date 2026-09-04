@@ -1,0 +1,22 @@
+# 🤖 Amaglo Bot
+
+A Python WhatsApp bot powered by the WhatsApp Cloud API.
+
+## Features
+
+- `!menu`
+- `!ping`
+- `!about`
+- `!time`
+- Automatic replies
+- WhatsApp Cloud API webhook
+
+## Environment Variables
+
+Set these on your deployment platform:
+
+```text
+VERIFY_TOKEN=your_secret_verification_token
+WHATSAPP_ACCESS_TOKEN=your_whatsapp_access_token
+PHONE_NUMBER_ID=your_phone_number_id
+GRAPH_API_VERSION=v23.0
